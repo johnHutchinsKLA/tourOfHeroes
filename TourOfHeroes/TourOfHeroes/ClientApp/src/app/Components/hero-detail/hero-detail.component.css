@@ -1,0 +1,132 @@
+/* HeroDetailComponent's private CSS styles */
+label {
+  display: inline-block;
+  width: 6em;
+  margin: .5em 0;
+  color: #607D8B;
+  font-weight: bold;
+}
+.hero-name {
+  margin-left: 5px;
+}
+.badge {
+  display: flex;
+  /*font-size: small;*/
+  color: white;
+  background-color:#405061;
+  height: 1.2em;
+  width: 1.5em;
+  text-align: center;
+  border-radius: 4px 0 0 4px;
+  align-self: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  padding-left: 0.15em;
+}
+input {
+  height: 2em;
+  font-size: 1em;
+  padding-left: .4em;
+}
+button {
+  margin-top: 10px;
+  font-family: Arial;
+  background-color: #eee;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  cursor: hand;
+}
+button:hover {
+  background-color: #cfd8dc;
+}
+button:disabled {
+  background-color: #eee;
+  color: #ccc;
+  cursor: auto;
+}
+/* Start of search styles */
+.search-result li {
+  border-bottom: 1px solid gray;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  width: 200px;
+  background-color: white;
+  list-style-type: none;
+}
+
+.search-result li:hover {
+  background-color: #607D8B;
+}
+
+.search-result li a {
+  color: #888;
+  display: block;
+  text-decoration: none;
+}
+
+.search-result li a:hover {
+  color: white;
+}
+.search-result li a:active {
+  color: white;
+}
+#search-box {
+  width: 200px;
+}
+
+ul.search-result {
+  padding-left: 0;
+}
+
+/* Start of list styles */
+.powers {
+  list-style-type: none;
+  padding: 0;
+  width: 20em;
+}
+.powers li {
+  background-color: #EEE;
+  margin: .2em;
+  height: 1.6em;
+  border-radius: 4px;
+}
+
+.powers a {
+  color: #333;
+  text-decoration: none;
+  display: block;
+}
+
+.powers a:hover {
+  color:#607D8B;
+}
+
+.name {
+  padding-left: .5em;
+}
+
+button:hover {
+  background-color: #cfd8dc;
+}
+
+button.delete {
+  position: relative;
+  background-color: gray !important;
+  color: white;
+  height: 1.6em;
+  margin: 0em;
+  align-self: center;
+  align-items: center;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  cursor: pointer;
+}
+
+button.delete:hover{
+  opacity: 50%;
+}

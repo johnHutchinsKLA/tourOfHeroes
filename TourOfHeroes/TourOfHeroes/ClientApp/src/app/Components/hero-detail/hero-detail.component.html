@@ -1,0 +1,38 @@
+<div *ngIf="hero">
+  <button (click)="goBack()">Back</button>
+  <h2>
+    <div class="badge">{{hero.id}}</div>
+    <div class="hero-name" fxFlex="auto">{{hero.name | uppercase}} Details</div>
+  </h2>
+  <div>
+    <label>Name:
+      <input [(ngModel)]="hero.name" placeholder="name"/>
+    </label>
+  </div>
+  <div *ngIf="!!hero.powers && hero.powers.length > 0">
+    <label>Powers:</label>
+    <ul *ngIf="!!hero.powers && hero.powers.length > 0" class="powers">
+      <li *ngFor="let power of hero.powers" fxLayout="row">
+        <div fxLayout="column" fxFlex="auto">
+          <div class="name" fxFlex="auto">{{power?.name}}</div>
+        </div>
+        <button class="delete" title="delete power"
+                (click)="removePower(power.name)" fxLayoutAlign="end">x</button>
+      </li>
+    </ul>
+
+  </div>
+<!--  Should break this section out into new power-search component-->
+  <label>Add Power: </label>
+  <div id="search-component">
+    <input #searchBox id="search-box" (input)="search(searchBox.value)" />
+    <button (click)="newPower(searchBox.value)">New Power</button>
+
+    <ul class="search-result">
+      <li *ngFor="let power of powers$ | async" >
+        <div (click)="addPower(power.name)">{{power.name}}</div>
+      </li>
+    </ul>
+  </div>
+  <button (click)="save()">Save</button>
+</div>

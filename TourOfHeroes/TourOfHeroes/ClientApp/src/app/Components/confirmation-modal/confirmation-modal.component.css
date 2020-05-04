@@ -1,0 +1,19 @@
+.buttons {
+  float: right;
+}
+
+.confirm-button {
+  color:  white;
+  margin-left: .5em;
+
+}
+
+.reject-button {
+  color: white;
+  background-color: gray;
+  opacity: 50%;
+}
+
+button:hover {
+  opacity: 50%;
+}

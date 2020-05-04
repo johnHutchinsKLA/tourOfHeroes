@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5926c273-e655-4768-aafd-ffd0c1f8dcc9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E2800C03-0A83-4832-8914-9BC6765EDE24/10/IHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Migrations/20200427141205_InitialMigration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Controllers/PowersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Repositories/PowerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Controllers/HeroesBaseController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Controllers/HeroesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Data/IEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Repositories/HeroRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Pages/Error.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A3DBE483-6645-4FDB-B51D-FEEB0B5C4997/A/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Data/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Models/Power.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Models/Hero.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Data/EfCore/DatabaseContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/Data/EfCore/EfCoreRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/ClientApp/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TourOfHeroes/ClientApp/src/tsconfig.app.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/confirmation-modal/confirmation-modal.component.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Services/message.service.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/messages/messages.component.html" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/package.json" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/hero-search/hero-search.component.css" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Models/Powers.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Models/HeroPowers.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Repositories/HeroRepository - Backup.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Data/EfCore/EfCoreRepository.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Models/power.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Models/PowerAPI.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Models/HeroAPI.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Models/HeroPower.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Repositories/HeroPowerRepository.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Startup.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Data/HeroesInitializer.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Data/EfCore/HeroContext.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Models/power.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/appsettings.json" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Models/dialog-data.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/confirmation-modal/confirmation-modal.component.html" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/heroes/heroes.component.html" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Controllers/PowersController.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/confirmation-modal/confirmation-modal.component.css" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/heroes/heroes.component.css" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Controllers/HeroesBaseController.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Data/EfCore/DatabaseContext.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Repositories/PowerRepository.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Repositories/HeroRepository.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Models/Hero.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Models/Power.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/Controllers/HeroesController.cs" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Resolvers/heroResolver.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Models/hero.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Services/hero.service.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Services/modal.service.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Services/power.service.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/app.server.module.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/dashboard/dashboard.component.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/heroes/heroes.component.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/hero-detail/hero-detail.component.css" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Guards/heroDetailGuard.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/hero-detail/hero-detail.component.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Guards/hero-detail-guard.ts" />
+        <option value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app/Components/hero-detail/hero-detail.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXvR0PggflAK3pFcU15IHrbOaW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TourOfHeroes/ClientApp/src/app" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\Onboarding\Tour of Heroes\tour-of-heroes\TourOfHeroes\TourOfHeroes\ClientApp\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.TourOfHeroes">
+    <configuration name="TourOfHeroes" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/TourOfHeroes/TourOfHeroes.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="TourOfHeroes" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="TourOfHeroes: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/TourOfHeroes/TourOfHeroes.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5926c273-e655-4768-aafd-ffd0c1f8dcc9" name="Default Changelist" comment="" />
+      <created>1586894741422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586894741422</updated>
+      <workItem from="1586894743826" duration="526000" />
+      <workItem from="1586895296562" duration="208000" />
+      <workItem from="1586896383714" duration="145000" />
+      <workItem from="1586896552520" duration="977000" />
+      <workItem from="1586897552911" duration="548000" />
+      <workItem from="1586952841066" duration="22183000" />
+      <workItem from="1586980723280" duration="988000" />
+      <workItem from="1586981742844" duration="815000" />
+      <workItem from="1586982575727" duration="1676000" />
+      <workItem from="1587038659172" duration="4120000" />
+      <workItem from="1587045210890" duration="5041000" />
+      <workItem from="1587051651262" duration="2914000" />
+      <workItem from="1587058170633" duration="1322000" />
+      <workItem from="1587059515485" duration="11844000" />
+      <workItem from="1587124784921" duration="11584000" />
+      <workItem from="1587384132184" duration="8145000" />
+      <workItem from="1587393346286" duration="5374000" />
+      <workItem from="1587402711521" duration="3560000" />
+      <workItem from="1587406296855" duration="61922000" />
+      <workItem from="1587652493863" duration="34498000" />
+      <workItem from="1587989104916" duration="42983000" />
+      <workItem from="1588164095909" duration="177000" />
+      <workItem from="1588166806720" duration="17000" />
+      <workItem from="1588271576707" duration="194000" />
+      <workItem from="1588366068443" duration="321000" />
+      <workItem from="1588609908897" duration="964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588166822415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-3478" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3840.0.1536.832/0.0.1920.1040@-3840.0.1536.832" timestamp="1586975765444" />
+    <state x="453" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588166822415" />
+    <state x="597" y="26" key="FileChooserDialogImpl" timestamp="1587559578981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="26" key="FileChooserDialogImpl/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587559578981" />
+    <state width="937" height="168" key="GridCell.Tab.0.bottom" timestamp="1588366389119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom/-3840.0.1536.832/0.0.1920.1040@-3840.0.1536.832" timestamp="1586980694278" />
+    <state width="937" height="168" key="GridCell.Tab.0.bottom/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588366389119" />
+    <state width="1493" height="124" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1586958854605" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1586894888564" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.2560.1400@3840.0.2560.1400" timestamp="1586895270377" />
+    <state width="937" height="168" key="GridCell.Tab.0.center" timestamp="1588366389119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.center/-3840.0.1536.832/0.0.1920.1040@-3840.0.1536.832" timestamp="1586980694278" />
+    <state width="937" height="168" key="GridCell.Tab.0.center/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588366389119" />
+    <state width="1493" height="124" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1586958854605" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1586894888564" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.2560.1400@3840.0.2560.1400" timestamp="1586895270377" />
+    <state width="937" height="168" key="GridCell.Tab.0.left" timestamp="1588366389119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.left/-3840.0.1536.832/0.0.1920.1040@-3840.0.1536.832" timestamp="1586980694278" />
+    <state width="937" height="168" key="GridCell.Tab.0.left/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588366389119" />
+    <state width="1493" height="124" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1586958854605" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1586894888564" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.2560.1400@3840.0.2560.1400" timestamp="1586895270377" />
+    <state width="937" height="168" key="GridCell.Tab.0.right" timestamp="1588366389119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="124" key="GridCell.Tab.0.right/-3840.0.1536.832/0.0.1920.1040@-3840.0.1536.832" timestamp="1586980694278" />
+    <state width="937" height="168" key="GridCell.Tab.0.right/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588366389119" />
+    <state width="1493" height="124" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1586958854605" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.2560.1400@0.0.1536.824" timestamp="1586894888564" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.2560.1400@3840.0.2560.1400" timestamp="1586895270377" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1586981756961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586981756961" />
+    <state x="700" y="75" key="SettingsEditor" timestamp="1588094927943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="75" key="SettingsEditor/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588094927943" />
+    <state x="830" y="397" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1587996701404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="397" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587996701404" />
+    <state x="677" y="162" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1587996020214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="162" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587996020214" />
+    <state x="825" y="233" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1586982107415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="825" y="233" key="com.intellij.database.view.ui.DbObjectDialog/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586982107415" />
+    <state x="869" y="25" width="799" height="1015" key="find.popup" timestamp="1587559621680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="869" y="25" width="799" height="1015" key="find.popup/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587559621680" />
+    <state x="449" y="10" width="639" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586954129006" />
+    <state x="540" y="192" width="840" height="848" key="search.everywhere.popup" timestamp="1587570081004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-3409" y="153" width="672" height="678" key="search.everywhere.popup/-3840.0.1536.832/0.0.1920.1040@-3840.0.1536.832" timestamp="1586980360907" />
+    <state x="540" y="192" width="840" height="848" key="search.everywhere.popup/-3840.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1587570081004" />
+  </component>
+</project>

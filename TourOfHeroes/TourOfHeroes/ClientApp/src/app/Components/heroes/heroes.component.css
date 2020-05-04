@@ -1,0 +1,69 @@
+/*!* HeroesComponent's private CSS styles *!*/
+.heroes {
+  list-style-type: none;
+  padding: 0;
+  width: 20em;
+}
+.heroes li {
+  cursor: pointer;
+  background-color: #EEE;
+  margin: .2em;
+  height: 1.6em;
+  border-radius: 4px;
+}
+
+.heroes li:hover {
+  color: #607D8B;
+  background-color: #DDD;
+  left: .1em;
+}
+
+.heroes a {
+  color: #333;
+  text-decoration: none;
+  display: block;
+}
+
+.heroes a:hover {
+  color:#607D8B;
+}
+
+.heroes .badge {
+  display: flex;
+  font-size: small;
+  color: white;
+  background-color:#405061;
+  height: 2em;
+  width: 2em;
+  text-align: right;
+  border-radius: 4px 0 0 4px;
+  align-self: center;
+  align-items: center;
+}
+
+.name {
+  padding-left: .5em;
+}
+
+button {
+  background-color: #eee;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  cursor: hand;
+  font-family: Arial;
+}
+
+button:hover {
+  background-color: #cfd8dc;
+}
+
+button.delete {
+  position: relative;
+  background-color: gray !important;
+  color: white;
+}
+
+button.delete:hover {
+  opacity: 50%;
+}
